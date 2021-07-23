@@ -2,6 +2,6 @@
 ProductManagement
 
 This contains the three files.
-1. ProductManagement.7z - The. Net project for product management application. 
-2. ShoppingCartSQL.7z - The database file 
-3. Program Test.7z - The answer to programing questions.
+1. ProductManagement.zip - The. Net project for product management application. 
+2. ShoppingCartSQL.zip - The database file 
+3. Program Test.zip - The answer to programing questions.
